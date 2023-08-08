@@ -1,13 +1,16 @@
 # I'M NASHRUDIN N HABIBON 🤖
 
 
+
 💻 Frontend Developer || ✒ Graphic Designer
 
 ### "A Front-end Web Developer who love to turn ideas into reality through web development. I like to craft solid and scalable frontend products with great user experience" 
+#### https://nashhabibon.vercel.app
 
----
+#
 
-### 💻 Languages and Tools
+
+#### 🛠 Languages and Tools
 
 <img align="left" alt="Html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="left" alt="Css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -23,7 +26,14 @@
 <img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/git.png" alt="git"/>          
           
-          
+<br/>
+
+#
+
+
+#### 📊 Stats
+
+![Nashhabibon GitHub stats](https://github-readme-stats.vercel.app/api?username=nashhabibon&show_icons=true&theme=algolia)
 <!--
 **nashhabibon/nashhabibon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
