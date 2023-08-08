@@ -1,5 +1,8 @@
-### Hi there 👋
+### NASHRUDIN N HABIBON 🤖
 
+** 'Frontend Developer || Graphic Designer' **
+
+"A Front-end Web Developer who love to turn ideas into reality through web development. I like to craft solid and scalable frontend products with great user experience"
 <!--
 **nashhabibon/nashhabibon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
