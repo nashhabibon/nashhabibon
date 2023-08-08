@@ -33,6 +33,8 @@
 
 #### 📊 Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashhabibon&layout=compact&theme=algolia)
+
 ![Nashhabibon GitHub stats](https://github-readme-stats.vercel.app/api?username=nashhabibon&show_icons=true&theme=algolia)
 <!--
 **nashhabibon/nashhabibon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
